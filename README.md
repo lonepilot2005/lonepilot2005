@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lonepilot2005
-- 👀 I’m interested in ...hacking
-- 🌱 I’m currently learning ...cmd commands
-- 💞️ I’m looking to collaborate on ...TTF
+- 👋 Hi, I’m Tamil Venkatesan
+- 👀 I’m interested in ... ethical hacking
+- 🌱 I’m currently learning ... mongodb
+- 💞️ I’m looking to collaborate on ... Ethical Hacking
 - 📫 How to reach me ...tamiltharun.v2005@gmail.com
 
 <!---
